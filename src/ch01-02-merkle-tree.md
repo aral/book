@@ -1,3 +1,5 @@
+> __Note:__ this version of this chapter is not part of the official book yet. You can read the [official chapter on GitHub](https://github.com/datprotocol/book/blob/master/src/ch01-02-merkle-tree.md). See [the pull request](https://github.com/datprotocol/book/pull/19) to view the differences.
+
 # Merkle Tree
 Merkle Trees in Dat are specialized [Flat Trees](./ch01-01-flat-tree) that
 contain the content of the archives.
